@@ -23,7 +23,7 @@ def Sum(Num1, Num2):
     return sum
     
 # Calculating the division    
-def Division(Num1, Nun2):
+def Division(Num1, Num2):
     if (Num2 > 0):
         division = round(Num1 / Num2, 2)
         return division
